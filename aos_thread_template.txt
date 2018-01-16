@@ -8,7 +8,7 @@ Thread Title : [ROM][OFFICIAL] Atomic-OS [OMS/DUI]
 [URL="https://telegram.me/DNDofficial"]Our official telegram group[/URL][/CENTER]
 [/SIZE][/B]
 [CENTER]
-[IMG]https://raw.githubusercontent.com/DarkNess-reDefined/reDefinition_documentation/graphics/aos_about%20us.png[/IMG]
+[IMG]https://raw.githubusercontent.com/Atomic-OS/docs/oreo/graphics/aos_about_us.png[/IMG]
 
 Atomic OS is beautifully crafted AOSP based ROM for AOSP lovers. 
 Atomic comes packed with all essential features like Substratum theme engine, Fling, Pulse, Battery and Clock customizations etc.
@@ -17,7 +17,7 @@ You can follow our code at [URL="http://www.github.com/Atomic-OS"]github.com/Ato
 [/CENTER]
 
 [CENTER]
-[IMG]https://raw.githubusercontent.com/DarkNess-reDefined/reDefinition_documentation/graphics/aos_features.png[/IMG]
+[IMG]https://raw.githubusercontent.com/Atomic-OS/docs/oreo/graphics/aos_features.png[/IMG]
 
 [SIZE="5"][B]Status Bar[/B][/SIZE]
 [SIZE="3"][CODE]
@@ -48,10 +48,10 @@ App ops
 Launch music app on headset connection
 In call vibration option
 Battery light customizations[/SIZE][/CODE]
-[IMG]https://raw.githubusercontent.com/DarkNess-reDefined/reDefinition_documentation/graphics/aos_downloads.png[/IMG]
+[IMG]https://raw.githubusercontent.com/Atomic-OS/docs/oreo/graphics/aos_downloads.png[/IMG]
 
 
-[IMG]https://raw.githubusercontent.com/DarkNess-reDefined/reDefinition_documentation/graphics/aos_instructions.png[/IMG]
+[IMG]https://raw.githubusercontent.com/Atomic-OS/docs/oreo/graphics/aos_instructions.png[/IMG]
 [SIZE="2"][I]
 
 [CODE]Download the ROM and [URL='http://opengapps.org/'][B]Gapps[/B][/URL]
@@ -63,7 +63,7 @@ Reboot and enjoy the power of AOS !
 [/CENTER]
 
 [CENTER][FONT="Comic Sans MS"][SIZE="5"]
-[IMG="GIT"]https://raw.githubusercontent.com/DarkNess-reDefined/reDefinition_documentation/graphics/aos_credits.png[/IMG]
+[IMG="GIT"]https://raw.githubusercontent.com/Atomic-OS/docs/oreo/graphics/aos_credits.png[/IMG]
 
 [SIZE=3]
 [B]GZOSP (Base)
