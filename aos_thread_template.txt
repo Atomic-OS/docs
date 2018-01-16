@@ -41,9 +41,8 @@ Lockscreen Shortcuts
 [CODE][SIZE="3"]
 Quick Settings
 Heads up[/SIZE][/CODE]
-[SIZE="5"][B]Panels[/B][/SIZE]
+[SIZE="5"][B]Miscellaneous[/B][/SIZE]
 [CODE][SIZE="3"]
-Quick Settings
 App ops
 Launch music app on headset connection
 In call vibration option
