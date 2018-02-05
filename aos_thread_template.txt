@@ -22,6 +22,7 @@ You can follow our code at [URL="http://www.github.com/Atomic-OS"]github.com/Ato
 [SIZE="5"][B]Status Bar[/B][/SIZE]
 [SIZE="3"][CODE]
 Statusbar Items
+> 4g or lte icon toggle
 Network traffic
 Ticker
 General
@@ -31,22 +32,34 @@ Brightness Control
 [SIZE="3"][CODE]
 Navigation bar [DUI]
 Button Settings
+Volume rocker settings
 Power Menu
+Power menu visibilty settings
 [/CODE][/SIZE]
 [SIZE="5"][B]Lockscreen[/B][/SIZE]
 [SIZE="3"][CODE]
 Lockscreen Shortcuts
+Double tap to sleep gesture
+Media cover art toggle
+Clock widget toggle
+Date widget toggle
+Alarm text toggle
 [/CODE][/SIZE]
 [SIZE="5"][B]Panels[/B][/SIZE]
 [CODE][SIZE="3"]
 Quick Settings
-Heads up[/SIZE][/CODE]
+Recents panel
+Heads up
+Notifications sound and vibration if screen is on
+Smart notifications sound[/SIZE][/CODE]
 [SIZE="5"][B]Miscellaneous[/B][/SIZE]
 [CODE][SIZE="3"]
 App ops
 Launch music app on headset connection
+Screen off power button torch
 In call vibration option
-Battery light customizations[/SIZE][/CODE]
+Battery light customizations
+Screen off animation[/SIZE][/CODE]
 [IMG]https://raw.githubusercontent.com/Atomic-OS/docs/oreo/graphics/aos_downloads.png[/IMG]
 
 
