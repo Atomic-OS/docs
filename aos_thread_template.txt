@@ -25,6 +25,7 @@ Statusbar Items
 > 4g or lte icon toggle
 Network traffic
 Ticker
+Clock and date
 General
 Brightness Control
 [/CODE][/SIZE]
